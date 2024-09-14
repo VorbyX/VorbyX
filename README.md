@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @VorbyX
-- 👀 I’m interested in game dev, music, and games
-- 🌱 I’m currently learning GMS
+Nope.
 
 <!---
 VorbyX/VorbyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
